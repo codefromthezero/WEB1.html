@@ -1,0 +1,75 @@
+.headline{
+    font-style: oblique;
+    text-align: center;
+    color: whitesmoke;
+    border: 15px ridge yellowgreen;
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+.firstlayer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.secondlayer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.thirdlayer{
+    display: grid;
+    grid-template-columns: 1fr 7fr;
+}
+.PF{
+    font-size: 60px;
+    border: 3px double salmon;
+    padding: 5px;
+    margin: 3px;
+    background-color: white;
+}
+.TR{
+    font-size: 60px;
+    border: 3px double salmon;
+    padding: 5px;
+    margin: 3px;
+    background-color: white;
+    text-align: right;
+}
+.PJ{
+    font-size: 60px;
+    border: 3px double salmon;
+    padding: 5px;
+    margin: 3px;
+    background-color: white;
+}
+.INVEST{
+    font-size: 60px;
+    border: 3px double salmon;
+    padding: 5px;
+    margin: 3px;
+    background-color: white;
+    text-align: right;
+}
+.PL1{
+    font-size: 60px;
+    border: 3px double salmon;
+    padding: 5px;
+    margin: 3px;
+    background-color: white;
+}
+.PL2{
+    font-size: 60px;
+    border: 3px double salmon;
+    padding: 5px;
+    margin: 3px;
+    background-color: white;
+}
+.PL1TEXT{
+    font-size: 15px;
+    color: gray;
+    font-style: italic;
+}
+body{
+    color: black;
+    background-color: rgba(117, 21, 21, 0.945);
+
+}
